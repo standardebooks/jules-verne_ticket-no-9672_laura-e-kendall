@@ -55,7 +55,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jules_Verne</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79064013</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">Laura Kendall</dc:contributor>
+		<dc:contributor id="translator">Laura E. Kendall</dc:contributor>
 		<meta property="file-as" refines="#translator">Kendall, Laura E.</meta>
 		<meta property="se:name.person.full-name" refines="#translator">Laura E. Kendall</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no2007090449</meta>
