@@ -2,26 +2,16 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-header[epub|type~="se:letter.dateline"]{
-	text-align: initial;
-	margin-bottom: 1em;
-}
-
-[epub|type~="z3998:salutation"] + p,
-[epub|type~="se:letter.dateline"] p{
-	text-indent: 0;
-}
-
-[epub|type~="z3998:valediction"]{
+[epub|type~="z3998:letter"] header{
 	text-align: right;
-}
-
-[epub|type~="z3998:sender"],
-[epub|type~="z3998:signature"]{
-	font-variant: small-caps;
 }
 
 footer{
 	margin-top: 1em;
 	text-align: right;
+}
+
+[epub|type~="z3998:salutation"],
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
 }
