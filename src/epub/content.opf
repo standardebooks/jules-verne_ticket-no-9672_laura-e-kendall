@@ -40,7 +40,8 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Suspense story and fairy tale in a Norwegian setting.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Hulda, the daughter of an innkeeper in the Norwegian countryside, is engaged to Ole, a fisherman. When Ole fails to return, Hulda fears him dead, until she receives a message that he has scribbled on the back of a lottery ticket. Newspapers broadcast the story, fueling excitement and speculation ahead of the drawing.&lt;/p&gt;&lt;p&gt;The novel, based in part on the author’s travel through Scandinavia in 1861, belongs the series &lt;i&gt;Voyages Extraordinaires&lt;/i&gt; which contains some of &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt;‘s best-known works, such as &lt;i&gt;Twenty Thousand Leagues Under the Seas&lt;/i&gt; and &lt;i&gt;Around the World in Eighty Days&lt;/i&gt;.&lt;i&gt;Le Billet de Loterie&lt;/i&gt; appeared first in installments in the magazine &lt;i&gt;Magasin d’Éducation et de Récréation&lt;/i&gt;, followed immediately by its book version published by Hetzel.&lt;/p&gt;
+			&lt;p&gt;Hulda, the daughter of an innkeeper in the Norwegian countryside, is engaged to Ole, a fisherman. When Ole fails to return, Hulda fears him dead, until she receives a message that he has scribbled on the back of a lottery ticket. Newspapers broadcast the story, fueling excitement and speculation ahead of the drawing.&lt;/p&gt;
+			&lt;p&gt;The novel, based in part on the author’s travel through Scandinavia in 1861, belongs the collection &lt;i lang="fr"&gt;Voyages Extraordinaires&lt;/i&gt; which contains some of &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt;‘s best-known works, such as &lt;i&gt;Twenty Thousand Leagues Under the Seas&lt;/i&gt; and &lt;i&gt;Around the World in Eighty Days&lt;/i&gt;.&lt;i&gt;Le Billet de Loterie&lt;/i&gt; appeared first in installments in the magazine &lt;i&gt;Magasin d’Éducation et de Récréation&lt;/i&gt;, followed immediately by its book version published by Hetzel.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13527</dc:source>
@@ -67,7 +68,7 @@
 		<dc:contributor id="transcriber-1">Norm Wolcott</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Wolcott, Norm</meta>
 		<dc:contributor id="transcriber-2">Alison Hadwin</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Hadwin, Alison</meta>	
+		<meta property="file-as" refines="#transcriber-2">Hadwin, Alison</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Geneviève Ségol</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Ségol, Geneviève</meta>
