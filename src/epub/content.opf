@@ -42,7 +42,6 @@
 		<meta id="collection" property="belongs-to-collection">Voyages Extraordinaires</meta>
 		<meta property="collection-type" refines="#collection">series</meta>
 		<meta property="group-position" refines="#collection">28</meta>
-		<dc:description id="description">A team of scientists and adventurers explores a prehistoric land.</dc:description>
 		<dc:description id="description">The wife of a lost fisherman finds his last message to her: a lottery ticket in a bottle.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Hulda, the daughter of an innkeeper in the Norwegian countryside, is engaged to Ole, a fisherman. When Ole fails to return, Hulda fears him dead, until she receives a message that he has scribbled on the back of a lottery ticket. Newspapers broadcast the story, fueling excitement and speculation ahead of the lottery drawing.&lt;/p&gt;
