@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/jules-verne/ticket-no-9672/laura-e-kendall</dc:identifier>
 		<dc:date>2021-06-29T23:29:48Z</dc:date>
@@ -42,11 +42,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Voyages Extraordinaires</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">29</meta>
-		<dc:description id="description">The wife of a lost fisherman finds his last message to her: a lottery ticket in a bottle.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The wife of a lost fisherman finds his last message to her: a lottery ticket in a bottle.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Hulda, the daughter of an innkeeper in the Norwegian countryside, is engaged to Ole, a fisherman. When Ole fails to return, Hulda fears him dead, until she receives a message that he has scribbled on the back of a lottery ticket. Newspapers broadcast the story, fueling excitement and speculation ahead of the lottery drawing.&lt;/p&gt;
 			&lt;p&gt;The novel, based in part on the &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Verne’s&lt;/a&gt; travel through Scandinavia in 1861, belongs to the collection &lt;a href="https://standardebooks.org/collections/voyages-extraordinaires"&gt;&lt;i lang="fr"&gt;Voyages Extraordinaires&lt;/i&gt;&lt;/a&gt; which contains some of his best-known works, like Twenty Thousand Leagues Under the Seas and &lt;a href="https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle"&gt;&lt;i&gt;Around the World in Eighty Days&lt;/i&gt;&lt;/a&gt;. &lt;i lang="fr"&gt;Un Billet de Loterie&lt;/i&gt; appeared first in installments in the magazine &lt;i lang="fr"&gt;Magasin d’Éducation et de Récréation&lt;/i&gt;, followed immediately by a book edition published by Hetzel.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13527</dc:source>
 		<meta property="schema:wordCount">49063</meta>
